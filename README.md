@@ -1,130 +1,76 @@
-# Asad Shah — Full Stack Developer
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Soumyajit Behera</h1>
 
-**Tagline:** Modern **Web Apps** Developer · *Lessons From Building*
+<!--
+**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started: -->
 
-I help founders turn ideas into fast, scalable products users love.
+<div align="center">
+  <img src ="./banner.png" />
+  
+</div>
 
----
+ <br/>
 
-## Hello, I'm Asad Shah
+## 👨🏻‍💻 About Me:
 
-A developer who genuinely enjoys building things for the web.
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-I'm always open to opportunities to grow, contribute, and build meaningful products.
+- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
-[More About me](https://iamasadshah-ibnerafi.vercel.app/)
+- 🔭 I’m currently working on `Something Intresting`.
 
----
+- 🌱 I’m currently learning `MERN Stack`
 
-## Selected Work — Latest Projects
+- 👯 I’m looking to collaborate for `Dev Projects`
 
-A curated snapshot of recent builds focused on clean UI, resilient architecture, and measurable product impact.
+- 🤔 I’m looking for help with `Competitive Programming`
 
-### One Startup a Day
+- 💬 Ask me about anything, Except Maths :sweat_smile:
 
-**Case study · 5 tools**
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-Each midnight, we mine Google, Reddit, and Quora, rank 10 problems, pick the top 1, and turn it into a concise, buildable startup—free.
+- ⚡ Fun fact: I waste most of my time playing games
 
-**Stack:** Next.js · Tailwind CSS · Shadcn · Supabase · n8n
+## 🛠️ Technologies and Tools I use:
 
-- [Live preview](https://onestartupaday.vercel.app/)
+<p>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+ <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+ <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+</p>
 
-### Well Wish
+## ❤️ Let's get connected:
 
-**Case study · 5 tools**
+<p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
-At WellWish, we don't just connect users — we connect hearts. Because sometimes, a little care is all it takes to change a life.
+## 🤝 Support Me:
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion · Supabase
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-- [Live preview](https://well-wish-fyp.vercel.app/)
-- [View code](https://github.com/iamasadshah/WellWish)
+## 📊 My GitHub Data:
 
-[View all projects →](https://iamasadshah-ibnerafi.vercel.app/)
-
----
-
-## Kind words from my clients
-
-> Asad helped me build my web application from the start. He was always listening to my ideas and made changes quickly when I asked. The work was of good quality and I am happy with the result.  
-> — **Ahmed Raza**, Startup Owner
-
-> What stood out was that Asad suggested better solutions instead of just building what I asked for. That saved us time and gave us a stronger product in the end.  
-> — **Ayesha Malik**, Product Manager
-
-> I worked with Asad Shah on a client project, and his code was clean and easy to maintain. Communication was straightforward, and deadlines were met without stress.  
-> — **Imran Ali**, Small Business Owner
-
----
-
-## What I Deliver
-
-### Scalable Web Systems
-
-High-performance applications built for growth and long-term maintainability.
-
-`TypeScript` `Next.js` `Supabase` `Headless CMS` `Tailwind CSS` `Framer` `PostgreSQL` `Vercel`
-
-### Gen AI Integration
-
-Harnessing AI for intelligent, responsive, personalized experiences.
-
-`OpenAI` `Gemini` `RAG` `Vector DBs` `Pinecone` `n8n` `LangChain` `Groq` `MCP`
-
-### Performance Optimization
-
-Fast load times and smooth interactions.
-
-`Core Web Vitals` `Lighthouse` `Caching` `Edge CDN` `Lazy Loading` `SEO`
-
----
-
-## Core Technologies
-
-HTML · CSS · JavaScript · Bootstrap · TypeScript · Tailwind CSS · React · Next.js · Sanity · Shadcn · Git · Figma · Node.js · Supabase · PostgreSQL · WordPress · Framer
-
----
-
-## FAQs
-
-Transparent communication is part of the work. If you don't find what you're looking for here, reach out for process, pricing, or code samples.
-
-[Ask a question →](https://iamasadshah-ibnerafi.vercel.app/contact)
-
-- **What types of projects do you take on?**
-- **Which technologies do you prefer?**
-- **How quickly can we get started?**
-- **What does your engagement model look like?**
-- **Do you stay involved post-launch?**
-
----
-
-## Let's Create Something Amazing Together
-
-Turn your idea into a polished product with thoughtful UX, resilient engineering, and a launch-ready strategy.
-
-[Contact me](https://iamasadshah-ibnerafi.vercel.app/contact)
-
-**Highlights**
-
-| Metric | Value |
-|--------|--------|
-| Lighthouse | 95+ |
-| Performance score | 98% |
-| Load time | ~1.8s |
-| API response | <120ms |
-| Core Web Vitals | Optimized |
-| Time to Interactive | <2s |
-| Bundle size | 75% smaller |
-| SEO score | 100 |
-| Uptime | 99.9% |
-| Mobile | Friendly |
-
-**Services:** MVP development · Performance optimization · Scalable architecture · AI integration · SEO optimization · E-commerce solutions · Security best practices · CMS integration
-
----
-
-Built with care — **Asad Shah**
-
-Site: [iamasadshah-ibnerafi.vercel.app](https://iamasadshah-ibnerafi.vercel.app/)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+</div>
