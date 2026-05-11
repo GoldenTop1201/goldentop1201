@@ -4,18 +4,6 @@
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-## 👋 About Me
-
-Hi there! I'm Ahmed, a Cloud Engineer at **Atlas Cloud Services** based in **Benguerir, Morocco** 🇲🇦. With a strong foundation in systems programming and infrastructure, I'm passionate about bridging the gap between low-level performance and scalable cloud-native architecture. My day-to-day work revolves around deploying, optimizing, and expanding cloud services.
-
----
-
-## 💻 Github Profile Summary
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xPacman&theme=github_dark" alt="0xPacman Profile" />
-</p>
-
-
 <p align="center">
   <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
 </p>
